@@ -1,0 +1,5 @@
+{
+  "name": "Leasing tracker",
+  "description": "A flexible app to track the mileage of your leased car. Enter your lease terms, log your mileage, and stay on track to avoid fees.",
+  "requestFramePermissions": []
+}
