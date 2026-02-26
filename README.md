@@ -29,3 +29,7 @@ If you wish to compile the APK yourself, you can open the `android` folder in An
 
 ---
 *Built with React, Vite, and Capacitor.*
+
+<img width="383" height="785" alt="Screenshot 2026-02-26 205534" src="https://github.com/user-attachments/assets/6dc9f738-da20-47f8-b3b9-a556248dabe0" />
+
+<img width="387" height="779" alt="Screenshot 2026-02-26 205554" src="https://github.com/user-attachments/assets/2436f666-3fdd-4775-be8f-73d44cdf1953" />
