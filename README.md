@@ -1,20 +1,31 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Leasing Tracker App
 
-# Run and deploy your AI Studio app
+A sleek, modern Android application (APK) designed to help you stay in complete control of your car lease mileage.
 
-This contains everything you need to run your app locally.
+Whether you're driving an electric vehicle, a hybrid, or a traditional car, Leasing Tracker provides a beautiful, sci-fi inspired dashboard that gives you an instant overview of your remaining kilometers, daily averages, and budget status.
 
-View your app in AI Studio: https://ai.studio/apps/c97a915b-3230-49a4-973e-4d79d5de662e
+## Features
 
-## Run Locally
+- **Intuitive Dashboard:** Get a clear visual representation of your remaining mileage with a beautifully designed circular progress indicator.
+- **Detailed Statistics:** Track your total used mileage, time remaining on the lease, allowed daily average, and your actual current daily average.
+- **Mileage Budget:** Instantly see if you are ahead of or behind your allowed mileage budget to date.
+- **Customizable Settings:** Personalize the app with your vehicle's nickname, choose between light and dark themes, and switch between Kilometers and Miles.
+- **Native Android Experience:** Built specifically for Android devices as a lightweight, performant APK.
 
-**Prerequisites:**  Node.js
+## True Data Privacy: You Own Your Data
 
+We believe that your data belongs to you, and only you. 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+**This application operates 100% offline.** 
+- There are no cloud servers.
+- No accounts to create.
+- No hidden tracking or analytics.
+
+Every single piece of information, from your lease details to your mileage logs, is stored securely and completely locally on your own mobile device. What happens on your phone, stays on your phone.
+
+## Build Instructions
+
+If you wish to compile the APK yourself, you can open the `android` folder in Android Studio and simply select **Build > Build Bundle(s) / APK(s) > Build APK(s)**.
+
+---
+*Built with React, Vite, and Capacitor.*
