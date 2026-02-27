@@ -2,7 +2,7 @@
 
 A sleek, modern Android application (APK) designed to help you stay in complete control of your car lease mileage.
 
-Whether you're driving an electric vehicle, a hybrid, or a traditional car, Leasing Tracker provides a beautiful, sci-fi inspired dashboard that gives you an instant overview of your remaining kilometers, daily averages, and budget status.
+Whether you're driving an electric vehicle, a hybrid, or a traditional car, Leasing Tracker provides a simple dashboard that gives you an instant overview of your remaining kilometers, miles, daily averages, and budget status(soon to come).
 
 ## Features
 
